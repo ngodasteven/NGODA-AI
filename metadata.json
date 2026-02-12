@@ -1,0 +1,8 @@
+{
+  "name": "NGODA AI Learning School",
+  "description": "A comprehensive AI learning platform with student dashboards, structured modules, an integrated AI assistant, and an administrative management panel.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
